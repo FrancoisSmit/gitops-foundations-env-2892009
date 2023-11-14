@@ -9,7 +9,7 @@ metadata:
     kubernetes.io/ingress.class: "nginx"
 spec:
   rules:
-    - host: francoissmi.westus2.cloudapp.azure.com
+    - host: FrancoisSmit.westus2.cloudapp.azure.com
       http:
         paths:
           - backend:
